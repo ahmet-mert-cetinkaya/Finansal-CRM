@@ -94,7 +94,7 @@
             this.btn_Cikis_Yap.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Cikis_Yap.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btn_Cikis_Yap.ForeColor = System.Drawing.Color.White;
-            this.btn_Cikis_Yap.Location = new System.Drawing.Point(0, 346);
+            this.btn_Cikis_Yap.Location = new System.Drawing.Point(0, 293);
             this.btn_Cikis_Yap.Margin = new System.Windows.Forms.Padding(2);
             this.btn_Cikis_Yap.Name = "btn_Cikis_Yap";
             this.btn_Cikis_Yap.Size = new System.Drawing.Size(203, 53);
@@ -110,7 +110,7 @@
             this.btn_Ayarlar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Ayarlar.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btn_Ayarlar.ForeColor = System.Drawing.Color.White;
-            this.btn_Ayarlar.Location = new System.Drawing.Point(0, 277);
+            this.btn_Ayarlar.Location = new System.Drawing.Point(0, 236);
             this.btn_Ayarlar.Margin = new System.Windows.Forms.Padding(2);
             this.btn_Ayarlar.Name = "btn_Ayarlar";
             this.btn_Ayarlar.Size = new System.Drawing.Size(203, 53);
@@ -126,7 +126,7 @@
             this.btn_Dashboard.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Dashboard.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btn_Dashboard.ForeColor = System.Drawing.Color.White;
-            this.btn_Dashboard.Location = new System.Drawing.Point(0, 208);
+            this.btn_Dashboard.Location = new System.Drawing.Point(0, 180);
             this.btn_Dashboard.Margin = new System.Windows.Forms.Padding(2);
             this.btn_Dashboard.Name = "btn_Dashboard";
             this.btn_Dashboard.Size = new System.Drawing.Size(203, 53);
@@ -142,7 +142,7 @@
             this.btn_Faturalar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Faturalar.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btn_Faturalar.ForeColor = System.Drawing.Color.White;
-            this.btn_Faturalar.Location = new System.Drawing.Point(0, 147);
+            this.btn_Faturalar.Location = new System.Drawing.Point(0, 123);
             this.btn_Faturalar.Margin = new System.Windows.Forms.Padding(2);
             this.btn_Faturalar.Name = "btn_Faturalar";
             this.btn_Faturalar.Size = new System.Drawing.Size(203, 53);
@@ -158,7 +158,7 @@
             this.btn_Banka_Hareketleri.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Banka_Hareketleri.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btn_Banka_Hareketleri.ForeColor = System.Drawing.Color.White;
-            this.btn_Banka_Hareketleri.Location = new System.Drawing.Point(0, 78);
+            this.btn_Banka_Hareketleri.Location = new System.Drawing.Point(0, 66);
             this.btn_Banka_Hareketleri.Margin = new System.Windows.Forms.Padding(2);
             this.btn_Banka_Hareketleri.Name = "btn_Banka_Hareketleri";
             this.btn_Banka_Hareketleri.Size = new System.Drawing.Size(203, 53);

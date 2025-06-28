@@ -351,7 +351,7 @@
             this.btn_Cikis_Yap.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Cikis_Yap.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btn_Cikis_Yap.ForeColor = System.Drawing.Color.White;
-            this.btn_Cikis_Yap.Location = new System.Drawing.Point(2, 347);
+            this.btn_Cikis_Yap.Location = new System.Drawing.Point(2, 286);
             this.btn_Cikis_Yap.Margin = new System.Windows.Forms.Padding(2);
             this.btn_Cikis_Yap.Name = "btn_Cikis_Yap";
             this.btn_Cikis_Yap.Size = new System.Drawing.Size(174, 53);
@@ -367,7 +367,7 @@
             this.btn_Ayarlar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Ayarlar.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btn_Ayarlar.ForeColor = System.Drawing.Color.White;
-            this.btn_Ayarlar.Location = new System.Drawing.Point(2, 278);
+            this.btn_Ayarlar.Location = new System.Drawing.Point(2, 230);
             this.btn_Ayarlar.Margin = new System.Windows.Forms.Padding(2);
             this.btn_Ayarlar.Name = "btn_Ayarlar";
             this.btn_Ayarlar.Size = new System.Drawing.Size(174, 53);
@@ -383,7 +383,7 @@
             this.btn_Dashboard.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Dashboard.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btn_Dashboard.ForeColor = System.Drawing.Color.White;
-            this.btn_Dashboard.Location = new System.Drawing.Point(2, 209);
+            this.btn_Dashboard.Location = new System.Drawing.Point(2, 173);
             this.btn_Dashboard.Margin = new System.Windows.Forms.Padding(2);
             this.btn_Dashboard.Name = "btn_Dashboard";
             this.btn_Dashboard.Size = new System.Drawing.Size(174, 53);
@@ -399,7 +399,7 @@
             this.btn_Giderler.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Giderler.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btn_Giderler.ForeColor = System.Drawing.Color.White;
-            this.btn_Giderler.Location = new System.Drawing.Point(2, 140);
+            this.btn_Giderler.Location = new System.Drawing.Point(2, 116);
             this.btn_Giderler.Margin = new System.Windows.Forms.Padding(2);
             this.btn_Giderler.Name = "btn_Giderler";
             this.btn_Giderler.Size = new System.Drawing.Size(174, 53);
@@ -415,7 +415,7 @@
             this.btn_Faturalar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Faturalar.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btn_Faturalar.ForeColor = System.Drawing.Color.White;
-            this.btn_Faturalar.Location = new System.Drawing.Point(2, 71);
+            this.btn_Faturalar.Location = new System.Drawing.Point(2, 59);
             this.btn_Faturalar.Margin = new System.Windows.Forms.Padding(2);
             this.btn_Faturalar.Name = "btn_Faturalar";
             this.btn_Faturalar.Size = new System.Drawing.Size(174, 53);
